@@ -1,0 +1,18 @@
+body{
+background-color:#3c3a37 !important;
+}
+img{
+    cursor: pointer;
+}
+
+.hello:hover img{
+    transform: scale(1.1,1.1);
+    transition: all 1s;
+}
+
+
+button:hover{
+    border: 2px solid #f0ad4e !important;
+    color: #f0ad4e !important;
+    background-color:  #212529 !important;
+}
